@@ -1,0 +1,9 @@
+SpeechRecognition
+PyAudio
+pyautogui
+pynput
+pyperclip
+pyscreeze
+PyGetWindow
+mouseinfo
+pyrect
